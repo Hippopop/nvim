@@ -46,8 +46,8 @@ return {
           a = { bg = colors.inactive_bg, fg = colors.semilightgray, gui = "bold" },
           b = { bg = colors.inactive_bg, fg = colors.semilightgray },
           c = { bg = colors.inactive_bg, fg = colors.semilightgray },
-        },
-      }
+        }
+     }
   
       -- configure lualine with modified theme
       lualine.setup({

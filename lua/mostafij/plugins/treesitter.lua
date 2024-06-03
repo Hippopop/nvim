@@ -40,6 +40,7 @@ return {
           "query",
           "vimdoc",
           "c",
+          "dart", -- new added by @Mostafij!
         },
         incremental_selection = {
           enable = true,
